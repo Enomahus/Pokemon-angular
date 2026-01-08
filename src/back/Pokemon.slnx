@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Backend/00-ServiceConfiguration/00-ServiceConfiguration.csproj" Id="59ed9ed2-1226-4c71-9427-23abfea3f405" />
+    <Project Path="src/Backend/01-Web/01-Web.csproj" Id="6b8dc034-7c78-4cd1-9651-f54194c589dd" />
+    <Project Path="src/Backend/10-Application/10-Application.csproj" Id="d1e63e27-0aec-431d-8d66-45a76e36d010" />
+    <Project Path="src/Backend/11-Application.Features/11-Application.Features.csproj" Id="062a0646-7adf-44f0-a727-62cf38ac9867" />
+    <Project Path="src/Backend/12-Application.Common/12-Application.Common.csproj" Id="7c4fced7-39c5-4a7d-8bb6-a0bee042172c" />
+    <Project Path="src/Backend/20-Infrastructure/20-Infrastructure.csproj" Id="9b09b701-6c65-433a-9844-6f0e6e740cda" />
+    <Project Path="src/Backend/21-Infrastructure.Persistence/21-Infrastructure.Persistence.csproj" Id="3e6ec0dd-4c39-431d-9bee-2166b7bc308d" />
+    <Project Path="src/Backend/22-Infrastructure.Persistence.SQLServer/22-Infrastructure.Persistence.SQLServer.csproj" Id="2cc5fb24-3697-49fa-bc7d-82a7fbffc819" />
+    <Project Path="src/Backend/99-Tools/99-Tools.csproj" Id="9824ded3-101e-4270-8745-e058fbab669b" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Application.UnitTests/Application.UnitTests.csproj" Id="d69c7b65-5fda-4734-a7fb-dfe28558b7b8" />
+  </Folder>
+</Solution>

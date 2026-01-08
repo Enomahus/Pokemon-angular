@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "AppDbDesign": "Server=localhost,7582;Database=AppPokedexDb;Connection Lifetime=30;User ID=sa;Password=@pokedex#;Encrypt=False"
+  }
+}
